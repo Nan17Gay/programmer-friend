@@ -11,7 +11,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     /* LINHA ATUALIZADA: Adicionando a imagem de fundo */
-    background: url('/static/images/fundo.avif') no-repeat center center fixed;
+    background: url('fundo.avif') no-repeat center center fixed;
     background-size: cover;
     color: #333;
     position: relative;
@@ -418,3 +418,4 @@ h2.page-title {
     margin-bottom: 15px;
 
 }
+
